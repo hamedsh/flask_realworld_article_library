@@ -4,7 +4,7 @@ this project was build to show the real-world project structure.
 
 ## db model
 
-![db model](/home/hamed/Sync/projects/flask_realworld/doc/main.png)
+![db model](doc/main.png)
 
 ## run
 - install poetry as python packaging and dependency management: https://python-poetry.org/
