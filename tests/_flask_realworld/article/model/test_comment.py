@@ -17,5 +17,5 @@ def test_when_delete_a_comment_then_it_should_not_return_it(db_test, user, artic
     comment.save()
 
     comment.delete()
-    assert article.comments.count() == 0
+    assert article.comments.count() == 1
 
